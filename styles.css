@@ -1,0 +1,12 @@
+/* Reset margin for the whole document */
+body {
+    margin: 0;
+}
+
+/* Style for h1 heading */
+h1 {
+    color: red;         
+    text-align: center;  
+    margin-top: 20px;      
+    margin-bottom: 20px;   
+}
